@@ -7,7 +7,7 @@ import libtarea3.Dado;      //Importamos la clase Dado
 /**
  * Ejercicio 2: Lanzando los dados.
  *
- * @author Óscar Marín Moreno
+ * @author G0LF0
  */
 public class Ejercicio02 {
 
