@@ -7,7 +7,7 @@ import libtarea3.CuentaBancaria;
 /**
  * Ejercicio 1: Uso de cuentas bancarias.
  *
- * @author Óscar Marín Moreno
+ * @author G0LF0
  */
 public class Ejercicio01 {
 
