@@ -11,7 +11,7 @@ import java.util.Scanner;
 /**
  * Ejercicio 3: Horario de clases.
  *
- * @author Profesor
+ * @author G0LF0
  */
 public class Ejercicio03 {
 
